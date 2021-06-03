@@ -12,9 +12,10 @@ Additional description about the project and its features.
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps:
-Copy the SSH Key and clone it on to your local computer.
-Create a feature branch from your terminal.
-Add an index.html and index.css file from your text editor.
+- Create a new repo
+- Copy your code from the project you completed during Admission Trial
+- Create a new branch for your copied code
+- Open a pull request and, perform a code review for yourself on this past project
 
 ## Authors
 
